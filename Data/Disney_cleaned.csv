@@ -1,0 +1,839 @@
+imdb_id,title,type,rated,year,runtime,averageRating,genre,platform
+tt0147800,10 Things I Hate About You,Movie,PG-13,1999,97,7.3,Comedy,Disney plus
+tt0115433,101 Dalmatians,Movie,G,1996,103,5.7,Comedy,Disney plus
+tt0324941,101 Dalmatians 2: Patch's London Adventure,Movie,G,2003,74,5.8,Comedy,Disney plus
+tt0211181,102 Dalmatians,Movie,G,2000,100,4.9,Comedy,Disney plus
+tt1846442,12 Dates of Christmas,Movie,PG,2011,90,6.3,Comedy,Disney plus
+tt0046672,"20,000 Leagues Under the Sea",Movie,G,1955,127,7.2,Comedy,Disney plus
+tt0120623,A Bug's Life,Movie,G,1998,95,7.2,Comedy,Disney plus
+tt0113198,A Goofy Movie,Movie,G,1995,78,6.8,Comedy,Disney plus
+tt0113538,A Kid in King Arthur's Court,Movie,PG,1995,89,4.7,Comedy,Disney plus
+tt0038674,A Knight for a Day,Movie,N/A,1946,7,7,Comedy,Disney plus
+tt0282123,A Ring of Endless Light,Movie,TV-G,2002,88,6.1,Comedy,Disney plus
+tt0287003,A Tale of Two Critters,Movie,G,1977,48,7.1,Comedy,Disney plus
+tt1620680,A Wrinkle in Time,Movie,PG,2018,109,4.2,Comedy,Disney plus
+tt6139732,Aladdin,Movie,PG,2019,128,7,Comedy,Disney plus
+tt0103639,Aladdin,Movie,G,1992,90,8,Comedy,Disney plus
+tt0115491,Aladdin and the King of Thieves,Movie,N/A,1996,81,6.4,Comedy,Disney plus
+tt0107952,Aladdin and the Return of Jafar,Movie,G,1994,69,5.9,Comedy,Disney plus
+tt0043274,Alice in Wonderland,Movie,G,1951,75,7.4,Comedy,Disney plus
+tt1014759,Alice in Wonderland,Movie,PG,2010,108,6.4,Comedy,Disney plus
+tt0417415,Aliens of the Deep,Movie,G,2005,100,6.4,Comedy,Disney plus
+tt0041112,All in a Nutshell,Movie,N/A,1949,7,7.6,Comedy,Disney plus
+tt0217990,Alley Cats Strike,Movie,TV-G,2000,103,6.2,Comedy,Disney plus
+tt0055740,Almost Angels,Movie,N/A,1962,93,7.1,Comedy,Disney plus
+tt0098740,America's Funniest Home Videos,TV Show,TV-PG,1989,30,6.2,Comedy,Disney plus
+tt0381006,America's Heart & Soul,Movie,PG,2004,84,4.8,Comedy,Disney plus
+tt0082017,Amy,Movie,G,1981,100,6.6,Comedy,Disney plus
+tt0208185,An Extremely Goofy Movie,Movie,G,2000,79,6.4,Comedy,Disney plus
+tt5195114,Andi Mack,TV Show,TV-G,2017,25,7.3,Comedy,Disney plus
+tt0207972,Annie,Movie,N/A,1999,90,6.7,Comedy,Disney plus
+tt9782756,Apollo: Missions to the Moon,Movie,N/A,2019,94,7.7,Comedy,Disney plus
+tt0327437,Around the World in 80 Days,Movie,PG,2004,120,5.9,Comedy,Disney plus
+tt6467274,Atlantis Rising,Movie,N/A,2017,93,6.8,Comedy,Disney plus
+tt0344864,Atlantis: Milo's Return,Movie,G,2003,70,5.1,Comedy,Disney plus
+tt0230011,Atlantis: The Lost Empire,Movie,PG,2001,95,6.9,Comedy,Disney plus
+tt8952294,Auntie Edna,Movie,N/A,2018,5,7.1,Comedy,Disney plus
+tt1830491,Austin & Ally,TV Show,TV-G,2011,30,5.9,Comedy,Disney plus
+tt0499549,Avatar,Movie,PG-13,2009,162,7.8,Comedy,Disney plus
+tt0022647,Babes in the Woods,Movie,N/A,1932,8,6.8,Comedy,Disney plus
+tt0054649,Babes in Toyland,Movie,N/A,1961,106,6.3,Comedy,Disney plus
+tt0034492,Bambi,Movie,G,1942,70,7.3,Comedy,Disney plus
+tt0447854,Bambi and the Great Prince of the Forest,Movie,G,2006,75,6.1,Comedy,Disney plus
+tt8075496,Bao,Movie,G,2018,8,7.5,Comedy,Disney plus
+tt0031086,Beach Picnic,Movie,N/A,1939,8,6.7,Comedy,Disney plus
+tt0047864,Bearly Asleep,Movie,N/A,1955,8,7.6,Comedy,Disney plus
+tt0101414,Beauty and the Beast,Movie,G,1991,84,8,Comedy,Disney plus
+tt0167038,Belle's Magical World,Movie,G,1998,92,5.4,Comedy,Disney plus
+tt0118692,Beauty and the Beast: The Enchanted Christmas,Movie,G,1997,72,6.1,Comedy,Disney plus
+tt0317132,Because of Winn-Dixie,Movie,PG,2005,106,6.3,Comedy,Disney plus
+tt0066817,Bedknobs and Broomsticks,Movie,G,1971,117,7.1,Comedy,Disney plus
+tt0960731,Bedtime Stories,Movie,PG,2008,99,6,Comedy,Disney plus
+tt0047867,Beezy Bear,Movie,N/A,1955,7,7.4,Comedy,Disney plus
+tt5929776,Before the Flood,Movie,PG,2016,96,8.3,Comedy,Disney plus
+tt0092638,Benji the Hunted,Movie,G,1987,88,6.3,Comedy,Disney plus
+tt4507442,Best Friends Whenever,TV Show,TV-G,2015,21,5.5,Comedy,Disney plus
+tt0094739,Big Business,Movie,PG,1988,97,6.4,Comedy,Disney plus
+tt7165904,Big City Greens,TV Show,TV-Y7,2018,22,6.6,Comedy,Disney plus
+tt2245084,Big Hero 6,Movie,PG,2014,102,7.8,Comedy,Disney plus
+tt0062737,Blackbeard's Ghost,Movie,N/A,1968,106,6.9,Comedy,Disney plus
+tt0109287,Blank Check,Movie,PG,1994,93,5.3,Comedy,Disney plus
+tt0029930,Boat Builders,Movie,N/A,1938,7,7.3,Comedy,Disney plus
+tt0397892,Bolt,Movie,PG,2008,96,6.8,Comedy,Disney plus
+tt0213334,Bonkers,TV Show,TV-Y,1993,27,6.8,Comedy,Disney plus
+tt0395479,Boundin',Movie,G,2004,5,7,Comedy,Disney plus
+tt0105958,Boy Meets World,TV Show,TV-G,1993,23,8.1,Comedy,Disney plus
+tt2078690,Brain Games,TV Show,TV-G,2011,30,8.3,Comedy,Disney plus
+tt1217209,Brave,Movie,PG,2012,93,7.1,Comedy,Disney plus
+tt0163986,The Brave Little Toaster to the Rescue,Movie,N/A,1999,74,6.3,Comedy,Disney plus
+tt7293698,Breaking2,Movie,N/A,2017,55,7.5,Comedy,Disney plus
+tt0162212,Brink!,Movie,TV-G,1998,99,7.1,Comedy,Disney plus
+tt0328880,Brother Bear,Movie,G,2003,85,6.8,Comedy,Disney plus
+tt0465925,Brother Bear 2,Movie,G,2006,74,6.2,Comedy,Disney plus
+tt0430932,Buffalo Dreams,Movie,G,2005,89,5.8,Comedy,Disney plus
+tt8693362,Bug Juice: My Adventures at Camp,TV Show,N/A,2018,22,7.3,Comedy,Disney plus
+tt1334585,Burn-E,Movie,G,2008,8,7.7,Comedy,Disney plus
+tt0294425,Cadet Kelly,Movie,TV-G,2002,101,5.5,Comedy,Disney plus
+tt0109369,Camp Nowhere,Movie,PG,1994,96,6.1,Comedy,Disney plus
+tt1055366,Camp Rock,Movie,TV-G,2008,94,5.2,Comedy,Disney plus
+tt1252380,Camp Rock 2: The Final Jam,Movie,TV-G,2010,97,5.2,Comedy,Disney plus
+tt0186910,Can of Worms,Movie,TV-PG,1999,90,5,Comedy,Disney plus
+tt0075807,Candleshoe,Movie,G,1977,101,6.8,Comedy,Disney plus
+tt0033448,Canine Caddy,Movie,N/A,1941,7,6.7,Comedy,Disney plus
+tt0317219,Cars,Movie,G,2006,117,7.1,Comedy,Disney plus
+tt1216475,Cars 2,Movie,G,2011,106,6.1,Comedy,Disney plus
+tt3606752,Cars 3,Movie,G,2017,102,6.7,Comedy,Disney plus
+tt1378121,El Materdor,TV Show,N/A,2008,36,6.4,Comedy,Disney plus
+tt1788785,Moon Mater,TV Show,TV-G,2010,5,6.3,Comedy,Disney plus
+tt1378123,Rescue Squad Mater,TV Show,N/A,2008,36,6.3,Comedy,Disney plus
+tt3755836,Spinning,TV Show,N/A,2013,2,6.8,Comedy,Disney plus
+tt2166364,Time Travel Mater,TV Show,G,2012,6,6.2,Comedy,Disney plus
+tt1330219,Tokyo Mater,Movie,G,2008,7,6.6,Comedy,Disney plus
+tt1511164,Unidentified Flying Mater,TV Show,N/A,2009,36,6.4,Comedy,Disney plus
+tt3755824,Bugged,TV Show,N/A,2013,2,6.4,Comedy,Disney plus
+tt0090803,Casebusters,TV Show,N/A,1986,120,5.9,Comedy,Disney plus
+tt0349205,Cheaper by the Dozen,Movie,PG,2003,98,5.9,Comedy,Disney plus
+tt0097053,Cheetah,Movie,G,1989,83,6.1,Adventure,Disney plus
+tt0033460,Chef Donald,Movie,N/A,1941,7,7.3,Animation,Disney plus
+tt0371606,Chicken Little,Movie,G,2005,81,5.7,Animation,Disney plus
+tt0096557,Chip 'n' Dale Rescue Rangers,TV Show,TV-Y,1989,22,7.6,Animation,Disney plus
+tt0039263,Chip an' Dale,Movie,N/A,1947,7,7.4,Animation,Disney plus
+tt0042332,Cinderella,Movie,G,1950,74,7.3,Animation,Disney plus
+tt0291082,Cinderella 2: Dreams Come True,Movie,G,2002,73,5,Animation,Disney plus
+tt0465940,Cinderella 3: A Twist in Time,Movie,G,2007,74,5.9,Animation,Disney plus
+tt0028726,Clock Cleaners,Movie,N/A,1937,9,7.5,Animation,Disney plus
+tt2762970,Cloud 9,Movie,TV-G,2014,85,6.6,Action,Disney plus
+tt2380307,Coco,Movie,PG,2017,105,8.4,Animation,Disney plus
+tt0997047,College Road Trip,Movie,G,2008,83,4.3,Adventure,Disney plus
+tt0361467,Confessions of a Teenage Drama Queen,Movie,PG,2004,89,4.6,Comedy,Disney plus
+tt6244108,Continent 7: Antarctica,TV Show,N/A,2016,47,7.5,Adventure,Disney plus
+tt0106611,Cool Runnings,Movie,PG,1993,98,7,Adventure,Disney plus
+tt8381724,Coop and Cami Ask the World,TV Show,TV-G,2018,30,5.7,Adventure,Disney plus
+tt0043428,Corn Chips,Movie,N/A,1951,7,7.4,Family,Disney plus
+tt0489007,Cow Belles,Movie,TV-G,2006,90,5.2,Comedy,Disney plus
+tt2273734,Crash & Bernstein,TV Show,N/A,2012,30,4.8,Comedy,Disney plus
+tt1090750,Dadnapped,Movie,TV-G,2009,84,4.9,Action,Disney plus
+tt0052722,Darby O'Gill and the Little People,Movie,N/A,1960,93,7.2,Adventure,Disney plus
+tt0101076,Darkwing Duck,TV Show,TV-Y7,1991,30,7.6,Animation,Disney plus
+tt0049125,Davy Crockett and the River Pirates,Movie,N/A,1956,81,6.8,Adventure,Disney plus
+tt0047977,Davy Crockett: King of the Wild Frontier,Movie,N/A,1955,93,7,Adventure,Disney plus
+tt1620446,Day & Night,Movie,G,2010,6,8.1,Animation,Disney plus
+tt7775248,Decorating Disney: Holiday Magic,Movie,N/A,2017,42,7,Reality-TV,Disney plus
+tt0365109,Deep Blue,Movie,G,2004,83,7.4,Documentary,Disney plus
+tt5117876,Descendants 2,Movie,TV-G,2017,111,6.5,Action,Disney plus
+tt8022928,Descendants 3,Movie,TV-G,2019,106,6.7,Adventure,Disney plus
+tt0377770,Destino,Movie,PG,2003,7,7.9,Animation,Disney plus
+tt7188868,Diana: In Her Own Words,Movie,N/A,2017,112,7.9,Documentary,Disney plus
+tt9695266,Diary of a Future President,TV Show,TV-PG,2020,30,5.5,Comedy,Disney plus
+tt1196141,Diary of a Wimpy Kid,Movie,PG,2010,120,6.2,Comedy,Disney plus
+tt0130623,Dinosaur,Movie,PG,2000,82,6.5,Animation,Disney plus
+tt4456850,Adventures in Babysitting,Movie,TV-G,2016,105,6,Adventure,Disney plus
+tt8050740,Amphibia,TV Show,TV-Y7,2019,23,7.8,Animation,Disney plus
+tt1614950,Avalon High,Movie,TV-G,2010,90,5.7,Drama,Disney plus
+tt3856042,Bad Hair Day,Movie,TV-G,2015,87,6,Adventure,Disney plus
+tt5515212,Big Hero 6: The Series,TV Show,TV-Y7,2017,21,7.1,Animation,Disney plus
+tt4800624,Bizaardvark,TV Show,TV-G,2016,30,3.5,Comedy,Disney plus
+tt1376699,Den Brother,Movie,N/A,2010,89,5.4,Family,Disney plus
+tt3440298,Descendants,Movie,TV-G,2015,112,6.4,Comedy,Disney plus
+tt4951098,Descendants: Wicked World,TV Show,N/A,2015,2,6.7,Animation,Disney plus
+tt3602560,The Evermoor Chronicles,TV Show,N/A,2014,30,6.1,Adventure,Disney plus
+tt2229129,Fancy Nancy,TV Show,TV-Y,2018,22,5.4,Animation,Disney plus
+tt8115666,Fast Layne,TV Show,N/A,2019,30,5.5,Comedy,Disney plus
+tt2326087,Girl Vs. Monster,Movie,TV-PG,2012,89,5.5,Action,Disney plus
+tt1865718,Gravity Falls,TV Show,TV-Y7,2012,23,8.9,Animation,Disney plus
+tt2996052,I Didn't Do It,TV Show,TV-G,2014,22,6,Comedy,Disney plus
+tt1833403,Jake and the Never Land Pirates,TV Show,TV-Y,2011,15,5.6,Animation,Disney plus
+tt1044418,Jonas,TV Show,N/A,2009,25,4.6,Comedy,Disney plus
+tt3598030,K.C. Undercover,TV Show,TV-Y7,2015,30,6.1,Action,Disney plus
+tt5118450,Lab Rats: Elite Force,TV Show,TV-Y7,2016,30,6.4,Adventure,Disney plus
+tt0784896,Mickey Mouse Clubhouse,TV Show,TV-Y,2006,30,5.7,Animation,Disney plus
+tt5439480,Milo Murphy's Law,TV Show,TV-Y7,2016,12,7.5,Animation,Disney plus
+tt3067144,Phineas and Ferb: Star Wars,TV Show,TV-G,2014,51,8.2,Animation,Disney plus
+tt2341339,Randy Cunningham: 9th Grade Ninja,TV Show,TV-G,2012,15,6.7,Animation,Disney plus
+tt6311972,Raven's Home,TV Show,TV-G,2017,22,7.4,Comedy,Disney plus
+tt2758770,Star vs. the Forces of Evil,TV Show,TV-Y7,2015,22,8,Animation,Disney plus
+tt4488724,Stuck in the Middle,TV Show,TV-G,2016,30,5.9,Comedy,Disney plus
+tt8959856,Sydney to the Max,TV Show,TV-G,2019,22,6.1,Comedy,Disney plus
+tt1887491,Take Two with Phineas and Ferb,TV Show,TV-G,2010,2,6.5,Animation,Disney plus
+tt3793630,The Lion Guard,TV Show,TV-Y,2016,30,6.4,Animation,Disney plus
+tt8884364,Under the Sea: A Descendants Story,Movie,N/A,2018,10,6.1,Short,Disney plus
+tt7010622,Vampirina,TV Show,TV-Y,2017,25,6.8,Animation,Disney plus
+tt0088528,Adventures of the Gummi Bears,TV Show,TV-Y,1985,30,7.5,Animation,Disney plus
+tt0122815,Disney's Doug,TV Show,N/A,1996,30,6.2,Animation,Disney plus
+tt0092345,DuckTales,TV Show,TV-G,1987,23,8.1,Animation,Disney plus
+tt7642482,Holiday Magic,TV Show,N/A,2017,63,7,N/A,Disney plus
+tt0138967,Hercules,TV Show,TV-Y,1998,30,6.6,Animation,Disney plus
+tt0278866,Kim Possible,TV Show,TV-G,2002,30,7.2,Animation,Disney plus
+tt0756522,Little Einsteins,TV Show,TV-Y,2005,30,6.2,Animation,Disney plus
+tt0115269,Mighty Ducks,TV Show,TV-Y7,1996,30,6.5,Animation,Disney plus
+tt0126170,Recess,TV Show,TV-Y,1997,23,7.8,Animation,Disney plus
+tt0465327,The Emperor's New School,TV Show,TV-G,2006,30,6.6,Animation,Disney plus
+tt0219854,The Kid,Movie,PG,2000,104,6.1,Comedy,Disney plus
+tt0103477,The Little Mermaid,TV Show,TV-Y,1992,25,6.8,Animation,Disney plus
+tt0923160,Disneyland Around the Seasons,TV Show,TV-G,1966,60,7.5,Action,Disney plus
+tt1223236,African Cats,Movie,G,2011,89,7.6,Documentary,Disney plus
+tt2458776,Bears,Movie,G,2014,78,7.4,Documentary,Disney plus
+tt4629266,Born in China,Movie,G,2017,79,7.2,Documentary,Disney plus
+tt1222815,Chimpanzee,Movie,G,2012,78,7.2,Documentary,Disney plus
+tt0902967,The Crimson Wing: Mystery of the Flamingos,Movie,G,2009,78,7.3,Documentary,Disney plus
+tt3660770,Monkey Kingdom,Movie,G,2015,81,7.3,Documentary,Disney plus
+tt8080302,Penguins,Movie,G,2019,76,6.9,Documentary,Disney plus
+tt1222816,Disneynature: Wings of Life,Movie,G,2013,81,7.4,Documentary,Disney plus
+tt12100080,Diving with Dolphins,Movie,N/A,2020,79,7.4,Documentary,Disney plus
+tt1710295,Doc McStuffins,TV Show,G,2012,11,6.8,Animation,Disney plus
+tt0118998,Doctor Dolittle,Movie,PG-13,1998,85,5.4,Comedy,Disney plus
+tt0240462,Dr. Dolittle 2,Movie,PG,2001,87,4.7,Comedy,Disney plus
+tt0423642,Dog Whisperer with Cesar Millan,TV Show,TV-G,2004,110,8,Family,Disney plus
+tt10055028,Dolphin Reef,Movie,G,2020,77,7.6,Documentary,Disney plus
+tt0045696,Don's Fountain of Youth,Movie,N/A,1953,6,7.4,Animation,Disney plus
+tt0208101,Don't Look Under the Bed,Movie,TV-PG,1999,100,6.9,Family,Disney plus
+tt0032401,Donald's Dog Laundry,Movie,N/A,1940,8,7,Animation,Disney plus
+tt0030069,Donald's Golf Game,Movie,N/A,1938,8,6.8,Animation,Disney plus
+tt0035820,Donald's Tire Trouble,Movie,N/A,1943,7,7,Family,Disney plus
+tt0038489,Double Dribble,Movie,N/A,1946,7,6.9,Animation,Disney plus
+tt0281905,Double Teamed,Movie,TV-G,2002,120,6.1,Biography,Disney plus
+tt0187819,Doug's 1st Movie,Movie,G,1999,77,5,Animation,Disney plus
+tt0046932,Dragon Around,Movie,N/A,1954,7,7.2,Family,Disney plus
+tt7823038,Drain Alcatraz,Movie,N/A,2017,45,5.4,Documentary,Disney plus
+tt4266692,Drain the Bermuda Triangle,Movie,N/A,2014,44,6,Documentary,Disney plus
+tt3738576,Drain the Great Lakes,Movie,TV-G,2011,47,7.5,Documentary,Disney plus
+tt6141006,Drain the Ocean: WWII,Movie,TV-PG,2016,44,7.2,History,Disney plus
+tt8676618,Drain the Oceans,TV Show,TV-PG,2018,47,7.6,Documentary,Disney plus
+tt7964284,Drain the Sunken Pirate City,Movie,TV-14,2017,47,6.2,N/A,Disney plus
+tt4743564,Drain the Titanic,Movie,N/A,2015,46,5.7,Documentary,Disney plus
+tt5531466,DuckTales,TV Show,TV-Y,2017,21,8.2,Animation,Disney plus
+tt0099472,DuckTales the Movie: Treasure of the Lost Lamp,Movie,G,1990,74,6.9,Animation,Disney plus
+tt1537759,Dug's Special Mission,Movie,TV-PG,2009,5,7,Animation,Disney plus
+tt3861390,Dumbo,Movie,PG,2019,112,6.3,Adventure,Disney plus
+tt1455430,Easter Island Underworld,TV Show,N/A,2009,120,7.4,Documentary,Disney plus
+tt0365149,Eddie's Million Dollar Cook-Off,Movie,TV-G,2003,110,6,Comedy,Disney plus
+tt0397313,Eight Below,Movie,PG,2006,120,7.3,Adventure,Disney plus
+tt4549142,Elena of Avalor,TV Show,TV-Y,2016,24,6.4,Animation,Disney plus
+tt0027569,Elmer Elephant,Movie,N/A,1936,9,7,Family,Disney plus
+tt0058056,Emil and the Detectives,Movie,PG,1964,99,6.2,Comedy,Disney plus
+tt0416716,Empire of Dreams: The Story of the 'Star Wars' Trilogy,Movie,N/A,2004,151,8.3,Documentary,Disney plus
+tt0072951,Escape to Witch Mountain,Movie,G,1975,97,6.4,Adventure,Disney plus
+tt0206511,Even Stevens,TV Show,TV-G,2000,30,7.6,Comedy,Disney plus
+tt6279452,Expedition Mars,Movie,N/A,2016,88,8.1,Documentary,Disney plus
+tt6974848,Disney's Fairy Tale Weddings,TV Show,N/A,2017,63,7.2,Reality-TV,Disney plus
+tt0032455,Fantasia,Movie,G,1941,125,7.8,Animation,Disney plus
+tt0120910,Fantasia 2000,Movie,G,2000,75,7.2,Animation,Disney plus
+tt0187635,Fantastic Four: The Animated Series,TV Show,N/A,1994,22,6.4,Animation,Disney plus
+tt0830298,Fantastic Four: World's Greatest Heroes,TV Show,N/A,2006,30,6.8,Animation,Disney plus
+tt0030128,Ferdinand the Bull,Movie,N/A,1938,8,7.2,Animation,Disney plus
+tt2277860,Finding Dory,Movie,PG,2016,97,7.3,Animation,Disney plus
+tt0266543,Finding Nemo,Movie,G,2003,100,8.1,Animation,Disney plus
+tt0116311,First Kid,Movie,PG,1996,101,5.2,Family,Disney plus
+tt1725902,Fish Hooks,TV Show,TV-G,2010,22,4.6,Animation,Disney plus
+tt0091059,Flight of the Navigator,Movie,PG,1986,90,6.9,Adventure,Disney plus
+tt9536846,Float,Movie,PG,2019,7,7.4,Animation,Disney plus
+tt0022899,Flowers and Trees,Movie,N/A,1932,8,7.5,Animation,Disney plus
+tt0119137,Flubber,Movie,PG,1997,93,5.3,Comedy,Disney plus
+tt0248808,For the Birds,Movie,G,2001,3,8,Animation,Disney plus
+tt11194650,What is Cheese?,TV Show,N/A,2020,3,7.8,Animation,Disney plus
+tt11194652,What is Reading?,TV Show,N/A,2020,3,8.1,Animation,Disney plus
+tt0113104,Frank and Ollie,Movie,PG,1995,89,7.8,Documentary,Disney plus
+tt1142977,Frankenweenie,Movie,PG,2012,87,6.9,Animation,Disney plus
+tt0087291,Frankenweenie,Movie,PG,1984,29,7.3,Short,Disney plus
+tt0076054,Freaky Friday,Movie,G,1977,95,6.3,Comedy,Disney plus
+tt0322330,Freaky Friday,Movie,PG,2003,97,6.1,Comedy,Disney plus
+tt7631348,Freaky Friday,Movie,TV-G,2018,90,3.7,Comedy,Disney plus
+tt7775622,Free Solo,Movie,PG-13,2018,100,8.2,Documentary,Disney plus
+tt1865368,Frenemies,Movie,TV-G,2012,87,5,Comedy,Disney plus
+tt2294629,Frozen,Movie,PG,2013,102,7.5,Animation,Disney plus
+tt4520988,Frozen II,Movie,PG,2019,103,7,Animation,Disney plus
+tt0382142,Full-Court Miracle,Movie,TV-G,2003,90,5.7,Drama,Disney plus
+tt0039404,Fun and Fancy Free,Movie,N/A,1948,73,6.6,Animation,Disney plus
+tt0286639,Fuzzbucket,Movie,N/A,1986,46,7.6,Adventure,Disney plus
+tt0436339,G-Force,Movie,PG,2009,88,5.1,Action,Disney plus
+tt0108783,Gargoyles,TV Show,TV-PG,1994,30,8.1,Animation,Disney plus
+tt1835977,Geek Charming,Movie,TV-G,2011,94,6.4,Comedy,Disney plus
+tt0193187,Genius,Movie,TV-G,1999,82,6.3,Comedy,Disney plus
+tt0119190,George of the Jungle,Movie,PG,1997,92,5.4,Action,Disney plus
+tt0322389,George of the Jungle 2,Movie,PG,2003,87,3.3,Adventure,Disney plus
+tt0131409,Geri's Game,Movie,N/A,1997,4,7.9,Animation,Disney plus
+tt0282521,Get a Clue,Movie,TV-G,2002,83,5.1,Comedy,Disney plus
+tt2543796,Girl Meets World,TV Show,TV-G,2014,23,7.2,Comedy,Disney plus
+tt0385726,Glory Road,Movie,PG,2006,118,7.2,Biography,Disney plus
+tt0447987,Go Figure,Movie,TV-G,2005,88,5.7,Comedy,Disney plus
+tt0399104,Going to the Mat,Movie,G,2004,120,6.8,Drama,Disney plus
+tt1415889,Good Luck Charlie,TV Show,TV-G,2010,22,7,Comedy,Disney plus
+tt1828976,"Good Luck Charlie, It's Christmas!",Movie,TV-G,2011,90,6.4,Comedy,Disney plus
+tt0103428,Goof Troop,TV Show,TV-Y,1992,30,6.8,Animation,Disney plus
+tt9165706,Gordon Ramsay: Uncharted,TV Show,N/A,2019,60,7.9,Adventure,Disney plus
+tt0299943,Gotta Kick It Up!,Movie,TV-G,2002,78,5.8,Comedy,Disney plus
+tt0025200,The Grasshopper and the Ants,Movie,N/A,1934,8,7.3,Family,Disney plus
+tt1769803,Great Migrations,TV Show,TV-PG,2010,45,8.1,Documentary,Disney plus
+tt0054944,Greyfriars Bobby: The True Story of a Dog,Movie,N/A,1961,87,7.3,Drama,Disney plus
+tt0074599,Gus,Movie,G,1976,96,5.9,Comedy,Disney plus
+tt0067172,Hacksaw,Movie,TV-PG,1971,89,6.2,Family,Disney plus
+tt0173886,Halloweentown,Movie,TV-G,1998,84,6.8,Adventure,Disney plus
+tt0414078,Halloweentown High,Movie,TV-G,2004,82,6.2,Comedy,Disney plus
+tt0274761,Halloweentown II: Kalabar's Revenge,Movie,TV-PG,2001,81,6.5,Adventure,Disney plus
+tt0451460,Handy Manny,TV Show,TV-Y,2006,24,5.6,Animation,Disney plus
+tt0493093,Hannah Montana,TV Show,TV-G,2006,23,5,Comedy,Disney plus
+tt1127884,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,Movie,G,2008,74,2.3,Documentary,Disney plus
+tt1114677,Hannah Montana: The Movie,Movie,G,2009,102,4.4,Comedy,Disney plus
+tt1222818,Hatching Pete,Movie,TV-G,2009,90,5.4,Comedy,Disney plus
+tt0028981,Hawaiian Holiday,Movie,N/A,1937,8,7.2,Animation,Disney plus
+tt0110006,Heavyweights,Movie,PG,1995,100,6.6,Comedy,Disney plus
+tt2746314,Henry Hugglemonster,TV Show,TV-Y,2013,22,5.1,Animation,Disney plus
+tt0080861,Herbie Goes Bananas,Movie,G,1980,100,5,Adventure,Disney plus
+tt0076137,Herbie Goes to Monte Carlo,Movie,G,1977,105,5.7,Action,Disney plus
+tt0071607,Herbie Rides Again,Movie,G,1974,88,5.7,Comedy,Disney plus
+tt0400497,Herbie Fully Loaded,Movie,G,2005,101,4.8,Adventure,Disney plus
+tt0119282,Hercules,Movie,G,1997,93,7.3,Animation,Disney plus
+tt0475293,High School Musical,Movie,TV-G,2006,98,5.4,Comedy,Disney plus
+tt0810900,High School Musical 2,Movie,TV-G,2007,104,5,Comedy,Disney plus
+tt0962726,High School Musical 3,Movie,G,2008,112,4.8,Comedy,Disney plus
+tt8510382,High School Musical: The Musical - The Series,TV Show,TV-PG,2019,31,7.3,Comedy,Disney plus
+tt11448424,High School Musical: The Musical: The Series: The Special,Movie,TV-G,2019,23,7.8,Documentary,Disney plus
+tt0107120,Hocus Pocus,Movie,PG,1993,96,6.9,Comedy,Disney plus
+tt0311289,Holes,Movie,PG,2003,117,7,Adventure,Disney plus
+tt0119303,Home Alone 3,Movie,PG,1997,102,4.5,Comedy,Disney plus
+tt0299172,Home on the Range,Movie,PG,2004,76,5.3,Animation,Disney plus
+tt0116552,Homeward Bound II: Lost in San Francisco,Movie,G,1996,88,5.9,Adventure,Disney plus
+tt0107131,Homeward Bound: The Incredible Journey,Movie,G,1993,84,6.9,Adventure,Disney plus
+tt0104437,"Honey, I Blew Up the Kid",Movie,PG,1992,89,4.8,Adventure,Disney plus
+tt0097523,"Honey, I Shrunk the Kids",Movie,PG,1989,93,6.3,Adventure,Disney plus
+tt0119310,"Honey, We Shrunk Ourselves!",Movie,PG,1997,74,5,Action,Disney plus
+tt0219813,Horse Sense,Movie,TV-G,1999,92,6.2,Drama,Disney plus
+tt8390274,Hostile Planet,TV Show,N/A,2019,47,8.2,Documentary,Disney plus
+tt0274557,Hounded,Movie,TV-G,2001,91,5.1,Comedy,Disney plus
+tt3098874,How to Build a Better Boy,Movie,TV-G,2014,90,5.5,Comedy,Disney plus
+tt0034873,How to Fish,Movie,N/A,1942,7,7,Comedy,Disney plus
+tt0034874,How to Play Baseball,Movie,N/A,1942,8,7.3,Animation,Disney plus
+tt0036933,How to Play Football,Movie,N/A,1944,7,7.2,Animation,Disney plus
+tt0034875,How to Swim,Movie,N/A,1942,8,7.1,Animation,Disney plus
+tt2455514,Hulk and the Agents of S.M.A.S.H.,TV Show,TV-Y7,2013,23,6.1,Animation,Disney plus
+tt0155753,I'll Be Home for Christmas,Movie,PG,1998,86,5.5,Comedy,Disney plus
+tt0268380,Ice Age,Movie,PG,2002,81,7.5,Animation,Disney plus
+tt5480340,Ice Age: The Great Egg-Scapade,Movie,TV-PG,2016,25,5.9,Animation,Disney plus
+tt0396652,Ice Princess,Movie,G,2005,98,6,Comedy,Disney plus
+tt1101237,Imagination Movers,TV Show,N/A,2008,30,7,Family,Disney plus
+tt12100044,In the Footsteps of Elephant,Movie,G,2020,85,8.1,Documentary,Disney plus
+tt4664808,Incredible! The Story of Dr. Pol,TV Show,N/A,2015,44,8.9,Documentary,Disney plus
+tt2096673,Inside Out,Movie,PG,2015,95,8.2,Animation,Disney plus
+tt0141369,Inspector Gadget,Movie,PG,1999,78,4.1,Action,Disney plus
+tt0301454,Inspector Gadget 2,Movie,G,2003,89,3.4,Action,Disney plus
+tt9822474,Into the Canyon,Movie,N/A,2019,84,7.7,Documentary,Disney plus
+tt7573844,Into the Okavango,Movie,N/A,2018,88,7.6,Documentary,Disney plus
+tt0445990,Invincible,Movie,PG,2006,105,7.1,Biography,Disney plus
+tt4420110,Invisible Sister,Movie,TV-G,2015,80,6.1,Adventure,Disney plus
+tt0115218,Iron Man,TV Show,TV-Y7,1994,30,6.7,Animation,Disney plus
+tt0837143,Iron Man: Armored Adventures,TV Show,TV-Y7,2008,22,6.5,Animation,Disney plus
+tt0110157,Iron Will,Movie,PG,1994,108,6.6,Adventure,Disney plus
+tt0116669,Jack,Movie,PG-13,1996,113,5.8,Comedy,Disney plus
+tt0455565,Jack-Jack Attack,Movie,N/A,2008,5,7.6,Animation,Disney plus
+tt0116683,James and the Giant Peach,Movie,PG,1996,79,6.7,Animation,Disney plus
+tt7207238,Jane,Movie,PG,2017,90,7.8,Documentary,Disney plus
+tt1865769,Jessie,TV Show,TV-G,2011,30,5.9,Comedy,Disney plus
+tt0401729,John Carter,Movie,PG-13,2012,132,6.6,Action,Disney plus
+tt0942378,Johnny Kapahala: Back on Board,Movie,N/A,2007,90,5.5,Comedy,Disney plus
+tt0206064,Johnny Tsunami,Movie,TV-G,1999,88,6.3,Drama,Disney plus
+tt1229827,Jonas Brothers: The 3D Concert Experience,Movie,G,2009,76,1.5,Documentary,Disney plus
+tt0052948,Journey to the Center of the Earth,Movie,N/A,1959,129,7,Adventure,Disney plus
+tt0805559,Jump In!,Movie,TV-G,2007,85,5.3,Comedy,Disney plus
+tt0271172,Jumping Ship,Movie,TV-G,2001,93,6.2,Family,Disney plus
+tt0119432,Jungle 2 Jungle,Movie,PG,1997,105,5.2,Comedy,Disney plus
+tt0053977,Jungle Cat,Movie,N/A,1960,69,7.4,Documentary,Disney plus
+tt0068789,Justin Morgan Had a Horse,Movie,TV-G,1972,91,6.5,Family,Disney plus
+tt0116756,Kazaam,Movie,PG,1996,93,3,Comedy,Disney plus
+tt1765622,Kickin' It,TV Show,TV-Y7,2011,22,6.3,Action,Disney plus
+tt7979492,Kim Possible,Movie,TV-G,2019,86,3.6,Action,Disney plus
+tt0446724,Kim Possible: So the Drama,Movie,TV-G,2005,71,7.1,Animation,Disney plus
+tt9536832,Kitbull,Movie,PG,2019,9,8,Animation,Disney plus
+tt0401398,Kronk's New Groove,Movie,G,2005,75,5.8,Animation,Disney plus
+tt1957945,La Luna,Movie,G,2012,7,8,Animation,Disney plus
+tt1991564,Lab Rats,TV Show,TV-Y7,2012,22,6.6,Action,Disney plus
+tt8096832,Lady and the Tramp,Movie,PG,2019,103,6.3,Adventure,Disney plus
+tt0048280,Lady and the Tramp,Movie,G,1955,76,7.3,Animation,Disney plus
+tt0249677,Lady and the Tramp 2: Scamp's Adventure,Movie,G,2001,69,5.9,Animation,Disney plus
+tt0044821,Lambert the Sheepish Lion,Movie,N/A,1952,8,7.7,Animation,Disney plus
+tt10167262,Lamp Life,Movie,N/A,2020,7,6.7,Animation,Disney plus
+tt9297164,Lego Star Wars: All-Stars,TV Show,TV-Y7,2018,22,6.5,Animation,Disney plus
+tt4855868,Lego Star Wars: Droid Tales,TV Show,N/A,2015,23,7.5,Animation,Disney plus
+tt8352934,LEGO Star Wars: The Resistance Rises,TV Show,N/A,2016,24,5.6,Animation,Disney plus
+tt5459566,Lego Star Wars: The Freemaker Adventures,TV Show,TV-Y7,2016,23,7.5,Animation,Disney plus
+tt4283838,The New Yoda Chronicles: Clash of the Skywalkers,Movie,N/A,2014,22,7.4,Animation,Disney plus
+tt3978590,The New Yoda Chronicles: Raid on Coruscant,Movie,N/A,2014,22,7.5,Animation,Disney plus
+tt3688956,The New Yoda Chronicles: Escape from the Jedi Temple,Movie,N/A,2014,22,7.5,Animation,Disney plus
+tt1648204,Lemonade Mouth,Movie,TV-PG,2011,103,6.9,Comedy,Disney plus
+tt0033824,Lend a Paw,Movie,N/A,1941,8,7.1,Animation,Disney plus
+tt0486761,Leroy & Stitch,Movie,G,2006,73,6.2,Animation,Disney plus
+tt2165933,Let It Shine,Movie,TV-G,2012,104,6.4,Drama,Disney plus
+tt0044835,Let's Stick Together,Movie,N/A,1952,7,7,Family,Disney plus
+tt2964642,Life Below Zero,TV Show,TV-PG,2013,44,8,Documentary,Disney plus
+tt0450455,Life Is Ruff,Movie,TV-G,2005,84,4.9,Comedy,Disney plus
+tt0107413,Life with Mikey,Movie,PG,1993,91,5.6,Comedy,Disney plus
+tt3920782,Life-Size 2,Movie,TV-14,2018,81,4.8,Comedy,Disney plus
+tt0945571,Lifted,Movie,G,2007,5,7.9,Animation,Disney plus
+tt0275847,Lilo & Stitch,Movie,PG,2002,85,7.2,Animation,Disney plus
+tt0364774,Lilo & Stitch: The Series,TV Show,TV-Y,2003,22,6.7,Animation,Disney plus
+tt0457993,Lilo & Stitch 2: Stitch Has a Glitch,Movie,PG,2005,68,6.3,Animation,Disney plus
+tt0273366,Lizzie McGuire,TV Show,TV-G,2001,30,6.6,Comedy,Disney plus
+tt0029161,Lonesome Ghosts,Movie,N/A,1937,9,7.7,Animation,Disney plus
+tt9536836,Loop,Movie,PG,2020,9,6.7,Animation,Disney plus
+tt6267732,Lou,Movie,G,2017,7,7.9,Animation,Disney plus
+tt0274636,The Luck of the Irish,Movie,TV-G,2001,86,6.2,Adventure,Disney plus
+tt11898442,Playdate with Destiny,Movie,G,2020,5,6.7,Animation,Disney plus
+tt0029188,Magician Mickey,Movie,N/A,1937,8,7.3,Family,Disney plus
+tt1305591,Mars Needs Moms,Movie,PG,2011,88,5.4,Animation,Disney plus
+tt9269852,MARS: Inside SpaceX,Movie,N/A,2018,46,7.4,Documentary,Disney plus
+tt4128102,Marvel 75 Years: From Pulp to Pop!,Movie,N/A,2014,42,7.4,Documentary,Disney plus
+tt0112175,Spider-Man: The Animated Series,TV Show,TV-Y,1994,23,8.3,Animation,Disney plus
+tt0115215,The Incredible Hulk,TV Show,TV-Y7,1996,20,6.8,Animation,Disney plus
+tt0103584,X-Men: The Animated Series,TV Show,TV-Y7,1992,23,8.4,Animation,Disney plus
+tt10863978,Marvel Rising: Battle of the Bands,Movie,N/A,2019,22,5,Animation,Disney plus
+tt9073748,Marvel Rising: Chasing Ghosts,Movie,N/A,2019,22,4.6,Animation,Disney plus
+tt9073746,Marvel Rising: Heart of Iron,Movie,N/A,2019,44,4,Animation,Disney plus
+tt11113964,Marvel Rising: Operation Shuri,Movie,TV-Y7-FV,2019,21,5.1,Animation,Disney plus
+tt11483514,Marvel Rising: Playing with Fire,Movie,TV-Y7-FV,2019,44,5.5,Animation,Disney plus
+tt7728344,Marvel Rising: Secret Warriors,Movie,N/A,2018,80,5.1,Animation,Disney plus
+tt3591568,Marvel Studios: Assembling a Universe,Movie,TV-PG,2014,43,7.6,Documentary,Disney plus
+tt0478970,Ant-Man,Movie,PG-13,2015,117,7.3,Action,Disney plus
+tt2395427,Avengers: Age of Ultron,Movie,PG-13,2015,141,7.3,Action,Disney plus
+tt4154796,Avengers: Endgame,Movie,PG-13,2019,181,8.4,Action,Disney plus
+tt1825683,Black Panther,Movie,PG-13,2018,134,7.3,Action,Disney plus
+tt3498820,Captain America: Civil War,Movie,PG-13,2016,147,7.8,Action,Disney plus
+tt0458339,Captain America: The First Avenger,Movie,PG-13,2011,124,6.9,Action,Disney plus
+tt1843866,Captain America: The Winter Soldier,Movie,PG-13,2014,136,7.7,Action,Disney plus
+tt4154664,Captain Marvel,Movie,PG-13,2019,123,6.9,Action,Disney plus
+tt1211837,Doctor Strange,Movie,PG-13,2016,115,7.5,Action,Disney plus
+tt2015381,Guardians of the Galaxy,Movie,PG-13,2014,121,8,Action,Disney plus
+tt3896198,Guardians of the Galaxy Vol. 2,Movie,PG-13,2017,136,7.6,Action,Disney plus
+tt0371746,Iron Man,Movie,PG-13,2008,126,7.9,Action,Disney plus
+tt1228705,Iron Man 2,Movie,PG-13,2010,124,7,Action,Disney plus
+tt1300854,Iron Man 3,Movie,PG-13,2013,130,7.2,Action,Disney plus
+tt0848228,The Avengers,Movie,PG-13,2012,143,8,Action,Disney plus
+tt0800369,Thor,Movie,PG-13,2011,115,7,Action,Disney plus
+tt3501632,Thor: Ragnarok,Movie,PG-13,2017,130,7.9,Action,Disney plus
+tt1981115,Thor: The Dark World,Movie,PG-13,2013,112,6.9,Action,Disney plus
+tt7726152,Marvel Super Hero Adventures,TV Show,N/A,2017,4,6.1,Animation,Disney plus
+tt1722512,Ultimate Spider-Man,TV Show,TV-Y7,2012,23,7.1,Animation,Disney plus
+tt3475734,Agent Carter,TV Show,TV-PG,2015,42,7.9,Action,Disney plus
+tt7249258,Ant-Man,TV Show,N/A,2017,2,6.7,Animation,Disney plus
+tt2455546,Avengers Assemble,TV Show,TV-Y7,2013,23,7,Animation,Disney plus
+tt4176370,Guardians of the Galaxy,TV Show,TV-Y7,2015,22,7.4,Animation,Disney plus
+tt4154858,Inhumans,TV Show,TV-PG,2017,43,5,Action,Disney plus
+tt3221698,Iron Man & Hulk: Heroes United,Movie,PG,2013,71,4.7,Animation,Disney plus
+tt1236246,Runaways,TV Show,TV-14,2017,60,7,Action,Disney plus
+tt6135682,Spider-Man,TV Show,TV-Y7,2017,21,6.1,Animation,Disney plus
+tt0058331,Mary Poppins,Movie,G,1965,139,7.8,Comedy,Disney plus
+tt0901686,Mater and the Ghostlight,Movie,G,2006,7,6.6,Animation,Disney plus
+tt0120645,Meet the Deedles,Movie,PG,1998,93,4.1,Comedy,Disney plus
+tt0396555,Meet the Robinsons,Movie,G,2007,95,6.8,Animation,Disney plus
+tt0040580,Melody Time,Movie,N/A,1948,75,6.4,Animation,Disney plus
+tt2768802,Mickey Mouse,TV Show,TV-G,2013,4,8.1,Animation,Disney plus
+tt0047757,The Mickey Mouse Club,TV Show,TV-G,1955,60,7.7,Family,Disney plus
+tt6264782,Mickey Mouse Mixed-Up Adventures,TV Show,TV-Y,2017,21,6.2,Animation,Disney plus
+tt0371823,"Mickey, Donald, Goofy: The Three Musketeers",Movie,G,2004,68,6.4,Animation,Disney plus
+tt0035064,Mickey's Birthday Party,Movie,N/A,1942,8,6.6,Animation,Disney plus
+tt0085936,Mickey's Christmas Carol,Movie,G,1983,26,8.1,Animation,Disney plus
+tt0238414,Mickey's Once Upon a Christmas,Movie,N/A,1999,66,7.2,Animation,Disney plus
+tt0027964,Mickey's Rival,Movie,N/A,1936,8,6.9,Animation,Disney plus
+tt0030448,Mickey's Trailer,Movie,N/A,1938,8,7.9,Animation,Disney plus
+tt0424279,Mickey's Twice Upon a Christmas,Movie,G,2004,68,6.5,Animation,Disney plus
+tt0120751,Mighty Joe Young,Movie,PG,1998,114,5.6,Action,Disney plus
+tt0323250,Mike's New Car,Movie,N/A,2002,4,7.1,Animation,Disney plus
+tt3098856,Mission Force One,TV Show,N/A,2015,30,6.7,Animation,Disney plus
+tt0366777,Millions,Movie,PG-13,2005,98,6.9,Comedy,Disney plus
+tt1072755,Minutemen,Movie,TV-G,2008,98,5.8,Adventure,Disney plus
+tt0349825,Miracle,Movie,PG,2004,135,7.5,Biography,Disney plus
+tt0157996,Miracle at Midnight,Movie,N/A,1998,90,7,Drama,Disney plus
+tt0218440,Miracle in Lane 2,Movie,G,2000,120,6,Biography,Disney plus
+tt3067436,Miracle Landing on the Hudson,Movie,N/A,2014,90,6.7,Drama,Disney plus
+tt0039628,Miracle on 34th Street,Movie,N/A,1947,96,7.9,Comedy,Disney plus
+tt9165688,Mission to the Sun,Movie,N/A,2018,60,7.1,Documentary,Disney plus
+tt3521164,Moana,Movie,PG,2016,107,7.6,Animation,Disney plus
+tt0250593,Mom's Got a Date with a Vampire,Movie,TV-PG,2000,85,5.9,Comedy,Disney plus
+tt1453405,Monsters University,Movie,G,2013,104,7.3,Animation,Disney plus
+tt0198781,"Monsters, Inc.",Movie,G,2001,92,8,Animation,Disney plus
+tt0273842,Motocrossed,Movie,TV-G,2001,110,6.6,Action,Disney plus
+tt0091566,Mr. Boogedy,TV Show,TV-PG,1986,46,7.3,Adventure,Disney plus
+tt0032814,Mr. Duck Steps Out,Movie,TV-G,1940,8,7.5,Animation,Disney plus
+tt0032815,Mr. Mouse Takes a Trip,Movie,N/A,1940,8,7.2,Family,Disney plus
+tt0120762,Mulan,Movie,G,1998,88,7.6,Animation,Disney plus
+tt0279967,Mulan II,Movie,G,2004,79,5.7,Animation,Disney plus
+tt6337766,Muppet Babies,TV Show,TV-Y,2018,23,7,Animation,Disney plus
+tt0117110,Muppet Treasure Island,Movie,G,1996,99,7,Action,Disney plus
+tt2281587,Muppets Most Wanted,Movie,PG,2014,107,6.4,Adventure,Disney plus
+tt0064705,"My Dog, the Thief: Part 1",TV Show,N/A,1969,88,6.6,Adventure,Disney plus
+tt0120764,My Favorite Martian,Movie,PG,1999,94,5.1,Comedy,Disney plus
+tt0805905,My Friends Tigger & Pooh,TV Show,TV-Y,2007,30,5.7,Animation,Disney plus
+tt0368891,National Treasure,Movie,PG,2004,131,6.8,Action,Disney plus
+tt0465234,National Treasure: Book of Secrets,Movie,PG,2007,124,6.5,Action,Disney plus
+tt0043839,Nature's Half Acre,Movie,N/A,1951,33,7.7,Documentary,Disney plus
+tt0104990,Newsies,Movie,PG,1992,121,7,Drama,Disney plus
+tt6346162,Disney's Newsies: The Broadway Musical!,Movie,PG,2017,149,8.5,Musical,Disney plus
+tt5097410,Noelle,Movie,G,2019,100,6.2,Comedy,Disney plus
+tt0426568,Now You See It...,Movie,TV-G,2005,83,6.3,Drama,Disney plus
+tt5452780,Olaf's Frozen Adventure,Movie,G,2017,22,5.5,Animation,Disney plus
+tt0976238,Old Dogs,Movie,PG,2009,88,5.4,Comedy,Disney plus
+tt0050798,Old Yeller,Movie,N/A,1959,83,7.3,Adventure,Disney plus
+tt0095776,Oliver & Company,Movie,G,1988,74,6.7,Animation,Disney plus
+tt0026816,On Ice,Movie,N/A,1935,8,7.5,Family,Disney plus
+tt0426148,Once Upon a Mattress,Movie,PG,2005,90,6.4,Comedy,Disney plus
+tt10854760,One Day at Disney,TV Show,N/A,2019,5,7.3,Documentary,Disney plus
+tt0055254,One Hundred and One Dalmatians,Movie,G,1961,79,7.2,Animation,Disney plus
+tt0089731,One Magic Christmas,Movie,G,1985,89,6.6,Family,Disney plus
+tt0479113,One Man Band,Movie,G,2006,4,7.7,Animation,Disney plus
+tt7651892,One Strange Rock,TV Show,TV-PG,2018,47,8.8,Documentary,Disney plus
+tt7146812,Onward,Movie,PG,2020,102,7.5,Animation,Disney plus
+tt0114048,Operation Dumbo Drop,Movie,PG,1995,107,5.1,Action,Disney plus
+tt6091694,Origins: The Journey of Humankind,TV Show,N/A,2017,60,6.9,Documentary,Disney plus
+tt0043890,Out of Scale,Movie,N/A,1951,7,7.6,Animation,Disney plus
+tt0277514,Out of the Box,TV Show,TV-Y,1998,24,7.5,Comedy,Disney plus
+tt1425244,Partly Cloudy,Movie,G,2009,6,8.2,Animation,Disney plus
+tt3116154,Party Central,Movie,PG,2014,5,7.1,Animation,Disney plus
+tt12080904,Penguins: Life on the Edge,Movie,G,2020,78,6.7,Documentary,Disney plus
+tt0050837,Perri,Movie,N/A,1957,75,7.2,Adventure,Disney plus
+tt0076538,Pete's Dragon,Movie,G,1977,128,6.4,Animation,Disney plus
+tt2788732,Pete's Dragon,Movie,PG,2016,102,6.7,Action,Disney plus
+tt0046183,Peter Pan,Movie,G,1953,77,7.3,Animation,Disney plus
+tt0280030,Peter Pan 2: Return to Never Land,Movie,G,2002,72,5.8,Animation,Disney plus
+tt0266850,Phantom of the Megaplex,Movie,TV-G,2000,89,6.5,Action,Disney plus
+tt0340281,Phil of the Future,TV Show,TV-G,2004,25,7,Adventure,Disney plus
+tt0852863,Phineas and Ferb,TV Show,TV-G,2007,15,7.9,Animation,Disney plus
+tt1825918,Phineas and Ferb the Movie: Across the 2nd Dimension,Movie,TV-G,2011,78,7.4,Animation,Disney plus
+tt2283584,Phineas and Ferb: Mission Marvel,TV Show,TV-G,2013,45,8.3,Animation,Disney plus
+tt0323642,Piglet's Big Movie,Movie,G,2003,75,6.1,Animation,Disney plus
+tt0032910,Pinocchio,Movie,G,1940,88,7.4,Animation,Disney plus
+tt5613056,Piper,Movie,G,2016,6,8.4,Animation,Disney plus
+tt0449088,Pirates of the Caribbean: At World's End,Movie,PG-13,2007,169,7.1,Action,Disney plus
+tt0383574,Pirates of the Caribbean: Dead Man's Chest,Movie,PG-13,2006,151,7.3,Action,Disney plus
+tt1298650,Pirates of the Caribbean: On Stranger Tides,Movie,PG-13,2011,136,6.6,Action,Disney plus
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,Movie,PG-13,2003,143,8,Action,Disney plus
+tt0393596,Pixel Perfect,Movie,TV-G,2004,85,5.7,Family,Disney plus
+tt4148744,PJ Masks,TV Show,TV-Y,2015,24,5.7,Animation,Disney plus
+tt0045037,Pluto's Christmas Tree,Movie,N/A,1952,7,7.7,Animation,Disney plus
+tt0045038,Pluto's Party,Movie,N/A,1952,7,6.5,Animation,Disney plus
+tt0040698,Pluto's Purchase,Movie,N/A,1948,7,6.6,Animation,Disney plus
+tt0114148,Pocahontas,Movie,G,1995,81,6.7,Animation,Disney plus
+tt0143808,Pocahontas II: Journey to a New World,Movie,G,1998,72,4.9,Animation,Disney plus
+tt0054195,Pollyanna,Movie,N/A,1960,134,7.4,Comedy,Disney plus
+tt0119918,Pooh's Grand Adventure: The Search for Christopher Robin,Movie,G,1997,76,7.1,Animation,Disney plus
+tt0407121,Pooh's Heffalump Movie,Movie,G,2005,68,6.4,Animation,Disney plus
+tt1245104,Presto,Movie,G,2008,5,8.4,Animation,Disney plus
+tt1196339,Princess Protection Program,Movie,TV-G,2009,90,5.6,Comedy,Disney plus
+tt1604171,Prom,Movie,PG,2011,104,5.4,Comedy,Disney plus
+tt0280050,Prowlers of the Everglades,Movie,N/A,1953,32,8.1,Documentary,Disney plus
+tt6688750,Puppy Dog Pals,TV Show,TV-Y,2017,24,7.1,Animation,Disney plus
+tt8980868,Purl,Movie,PG,2019,8,6.4,Animation,Disney plus
+tt0136658,Quack Pack,TV Show,TV-Y,1996,30,6.8,Animation,Disney plus
+tt4341582,Queen of Katwe,Movie,PG,2016,124,7.4,Biography,Disney plus
+tt0245380,Quints,Movie,TV-G,2000,83,5.7,Comedy,Disney plus
+tt0382932,Ratatouille,Movie,G,2007,111,8,Animation,Disney plus
+tt0494716,Read It and Weep,Movie,TV-G,2006,84,5.5,Comedy,Disney plus
+tt0253550,Ready to Run,Movie,TV-G,2000,96,5.3,Family,Disney plus
+tt0382936,Recess: All Growed Down,Movie,G,2003,61,6.7,Animation,Disney plus
+tt0265632,Recess: School's Out,Movie,G,2001,82,6.6,Animation,Disney plus
+tt0382937,Recess: Taking the Fifth Grade,Movie,G,2003,62,6.8,Animation,Disney plus
+tt0485985,Red Tails,Movie,PG-13,2012,125,5.9,Action,Disney plus
+tt0093832,Red's Dream,Movie,G,1987,4,6.4,Animation,Disney plus
+tt0210945,Remember the Titans,Movie,PG,2000,113,7.8,Biography,Disney plus
+tt0078158,Return from Witch Mountain,Movie,G,1978,95,5.9,Family,Disney plus
+tt0816520,Return to Halloweentown,Movie,TV-PG,2006,88,5.6,Comedy,Disney plus
+tt0089908,Return to Oz,Movie,PG,1985,113,6.7,Adventure,Disney plus
+tt0155110,Richie Rich's Christmas Wish,Movie,G,1998,84,4.1,Comedy,Disney plus
+tt0323810,Right on Track,Movie,TV-G,2003,89,6.3,Biography,Disney plus
+tt0244764,Rip Girls,Movie,TV-G,2000,87,6.2,Drama,Disney plus
+tt0070608,Robin Hood,Movie,G,1973,83,7.6,Animation,Disney plus
+tt3748528,Rogue One: A Star Wars Story,Movie,PG-13,2016,133,7.8,Action,Disney plus
+tt0107985,Rookie of the Year,Movie,PG,1993,103,6,Comedy,Disney plus
+tt0436595,Roving Mars,Movie,G,2006,40,7.2,Documentary,Disney plus
+tt0138068,Ruby Bridges,Movie,N/A,1998,96,7.2,Drama,Disney plus
+tt3816666,Running Wild with Bear Grylls,TV Show,TV-14,2014,60,7.7,Adventure,Disney plus
+tt0353965,Sacred Planet,Movie,G,2004,40,6,Documentary,Disney plus
+tt0036326,Saludos Amigos,Movie,N/A,1943,42,6.2,Animation,Disney plus
+tt0056441,"Sammy, the Way-Out Seal: Part 1",TV Show,N/A,1962,89,6.5,Adventure,Disney plus
+tt4661600,Sanjay's Super Team,Movie,PG,2015,7,6.9,Animation,Disney plus
+tt2414212,Santa Paws 2: The Santa Pups,Movie,G,2012,88,4.9,Adventure,Disney plus
+tt0023422,Santa's Workshop,Movie,N/A,1932,7,7.4,Animation,Disney plus
+tt2140373,Saving Mr. Banks,Movie,PG-13,2013,125,7.5,Biography,Disney plus
+tt7153434,Science Fair,Movie,PG,2018,90,7.7,Documentary,Disney plus
+tt6390686,Sea of Hope: America's Underwater Treasures,Movie,N/A,2017,48,6.9,Documentary,Disney plus
+tt0031905,Sea Scouts,Movie,N/A,1939,8,6.9,Animation,Disney plus
+tt1217213,Secret of the Wings,Movie,G,2012,75,7.1,Animation,Disney plus
+tt1028576,Secretariat,Movie,PG,2010,123,7.2,Biography,Disney plus
+tt0049733,Secrets of Life,Movie,N/A,1956,70,7.8,Documentary,Disney plus
+tt8879238,Secrets of the Zoo,TV Show,N/A,2018,44,8.2,Reality-TV,Disney plus
+tt1661326,Shake It Up,TV Show,TV-G,2010,30,4.8,Comedy,Disney plus
+tt1629440,Sharpay's Fabulous Adventure,Movie,G,2011,90,4.7,Comedy,Disney plus
+tt2769458,Sheriff Callie's Wild West,TV Show,TV-Y,2014,25,6.5,Animation,Disney plus
+tt0099816,Shipwrecked,Movie,PG,1991,92,6.7,Adventure,Disney plus
+tt0203268,Silver Surfer,TV Show,TV-Y7,1998,30,7.1,Animation,Disney plus
+tt0462538,The Simpsons Movie,Movie,PG-13,2007,87,7.3,Animation,Disney plus
+tt0105417,Sister Act,Movie,PG,1992,100,6.4,Comedy,Disney plus
+tt0108147,Sister Act 2: Back in the Habit,Movie,PG,1993,107,5.6,Comedy,Disney plus
+tt1479534,Skyrunners,Movie,TV-PG,2009,92,5,Family,Disney plus
+tt0053285,Sleeping Beauty,Movie,G,1959,75,7.2,Animation,Disney plus
+tt0118466,Smart Guy,TV Show,TV-G,1997,30,7.4,Comedy,Disney plus
+tt0192618,Smart House,Movie,TV-G,1999,82,6.3,Comedy,Disney plus
+tt7103168,Smash and Grab,Movie,PG,2019,8,6.7,Animation,Disney plus
+tt0281373,Snow Dogs,Movie,PG,2002,99,5.2,Adventure,Disney plus
+tt0029583,Snow White and the Seven Dwarfs,Movie,G,1938,83,7.6,Animation,Disney plus
+tt0069291,Snowball Express,Movie,G,1973,93,6.5,Comedy,Disney plus
+tt1068284,Snowglobe,Movie,TV-PG,2007,86,6,Comedy,Disney plus
+tt0169247,So Weird,TV Show,TV-Y7,1999,30,8.5,Adventure,Disney plus
+tt0031945,Society Dog Show,Movie,N/A,1939,8,7.1,Animation,Disney plus
+tt1252374,Sonny with a Chance,TV Show,TV-G,2009,23,6.1,Comedy,Disney plus
+tt5189554,Soy Luna,TV Show,N/A,2016,45,6.8,Comedy,Disney plus
+tt0081938,Spider-Man,TV Show,N/A,1981,30,7,Animation,Disney plus
+tt0083481,Spider-Man and His Amazing Friends,TV Show,TV-Y7,1981,22,7.2,Animation,Disney plus
+tt0207120,Spider-Man Unlimited,TV Show,TV-Y7,1999,22,6.4,Action,Disney plus
+tt0197911,Spider-Woman,TV Show,TV-Y7,1979,21,5.8,Animation,Disney plus
+tt0088161,Splash,Movie,PG,1984,111,6.2,Comedy,Disney plus
+tt6779076,Star Wars: Forces of Destiny,TV Show,N/A,2017,3,5,Animation,Disney plus
+tt2930604,Star Wars Rebels,TV Show,TV-Y7-FV,2014,22,8,Animation,Disney plus
+tt8336340,Star Wars Resistance,TV Show,TV-Y7,2018,30,4.9,Animation,Disney plus
+tt0076759,Star Wars: Episode IV - A New Hope,Movie,PG,1977,121,8.6,Action,Disney plus
+tt0121765,Star Wars: Episode II - Attack of the Clones,Movie,PG,2002,142,6.5,Action,Disney plus
+tt11281500,Star Wars Blips,TV Show,N/A,2017,1,6.1,Animation,Disney plus
+tt0086190,Star Wars: Episode VI - Return of the Jedi,Movie,PG,1983,131,8.3,Action,Disney plus
+tt0121766,Star Wars: Episode III - Revenge of the Sith,Movie,PG-13,2005,140,7.5,Action,Disney plus
+tt0458290,Star Wars: The Clone Wars,TV Show,TV-PG,2008,23,8.1,Animation,Disney plus
+tt1185834,Star Wars: The Clone Wars,Movie,PG,2008,98,5.9,Animation,Disney plus
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,Movie,PG,1980,124,8.7,Action,Disney plus
+tt2488496,Star Wars: Episode VII - The Force Awakens,Movie,PG-13,2015,138,7.9,Action,Disney plus
+tt2527336,Star Wars: Episode VIII - The Last Jedi,Movie,PG-13,2017,152,7,Action,Disney plus
+tt0120915,Star Wars: Episode I - The Phantom Menace,Movie,PG,1999,136,6.5,Action,Disney plus
+tt4858674,Stargirl,Movie,PG,2020,107,6.2,Comedy,Disney plus
+tt1579247,StarStruck,Movie,TV-G,2010,90,6.1,Comedy,Disney plus
+tt0019422,Steamboat Willie,Movie,TV-Y7,1929,8,7.6,Animation,Disney plus
+tt0250754,Stepsister from Planet Weird,Movie,TV-G,2000,85,6,Comedy,Disney plus
+tt0348124,Stitch! The Movie,Movie,G,2003,60,6.2,Animation,Disney plus
+tt1245537,Stonehenge: Decoded,Movie,PG,2008,92,6.5,Documentary,Disney plus
+tt0410696,Stuck in the Suburbs,Movie,TV-G,2004,76,5.6,Comedy,Disney plus
+tt0166829,The Sultan and the Rock Star,TV Show,N/A,1980,60,7.1,Adventure,Disney plus
+tt2999390,Super Buddies,Movie,G,2013,81,4.2,Family,Disney plus
+tt1368151,Super Rhino,Movie,G,2009,4,6.3,Animation,Disney plus
+tt0033124,Swiss Family Robinson,Movie,N/A,1940,93,6.5,Adventure,Disney plus
+tt0054357,Swiss Family Robinson,Movie,G,1960,126,7.2,Adventure,Disney plus
+tt0098924,TaleSpin,TV Show,TV-Y7,1990,30,7.6,Animation,Disney plus
+tt0111359,Tall Tale,Movie,PG,1995,96,5.9,Adventure,Disney plus
+tt0398286,Tangled,Movie,PG,2010,100,7.7,Animation,Disney plus
+tt5533228,Tangled: Before Ever After,Movie,TV-Y7,2017,55,6.6,Animation,Disney plus
+tt4902964,Tangled: The Series,TV Show,TV-Y7,2017,21,7.6,Animation,Disney plus
+tt0313680,Tarzan & Jane,Movie,G,2002,75,5.4,Animation,Disney plus
+tt0350194,Teacher's Pet,Movie,PG,2004,73,5.8,Animation,Disney plus
+tt0257325,Teacher's Pet,TV Show,TV-Y,2000,30,6.4,Animation,Disney plus
+tt3764966,Teen Beach 2,Movie,TV-G,2015,104,6.1,Family,Disney plus
+tt2325989,Teen Beach Movie,Movie,N/A,2013,110,5.9,Family,Disney plus
+tt1845866,Teen Spirit,Movie,TV-PG,2011,82,5.5,Comedy,Disney plus
+tt0120317,That Darn Cat,Movie,PG,1997,89,4.7,Action,Disney plus
+tt0059793,That Darn Cat!,Movie,N/A,1965,116,6.8,Comedy,Disney plus
+tt0300865,That's So Raven,TV Show,TV-G,2003,30,6.5,Comedy,Disney plus
+tt0054594,The Absent Minded Professor,Movie,N/A,1961,92,6.8,Comedy,Disney plus
+tt0061333,The Adventures of Bullwhip Griffin,Movie,N/A,1967,108,6.6,Action,Disney plus
+tt0106223,The Adventures of Huck Finn,Movie,PG,1993,108,6.2,Adventure,Disney plus
+tt0041094,The Adventures of Ichabod and Mr. Toad,Movie,N/A,1950,68,7,Animation,Disney plus
+tt0047803,The African Lion,Movie,N/A,1955,75,7.3,Family,Disney plus
+tt0072653,The Apple Dumpling Gang,Movie,G,1975,100,6.5,Comedy,Disney plus
+tt0078790,The Apple Dumpling Gang Rides Again,Movie,G,1979,88,6.1,Comedy,Disney plus
+tt0065421,The Aristocats,Movie,G,1970,78,7.1,Animation,Disney plus
+tt0033356,The Art of Skiing,Movie,N/A,1941,8,7.3,Animation,Disney plus
+tt1626038,The Avengers: Earth's Mightiest Heroes,TV Show,TV-Y7,2010,30,8.3,Animation,Disney plus
+tt0203247,Avengers: United They Stand,TV Show,TV-Y7,1999,30,5.5,Animation,Disney plus
+tt0026094,The Band Concert,Movie,TV-Y7,1935,9,7.9,Animation,Disney plus
+tt0071199,The Bears and I,Movie,G,1974,89,6.2,Drama,Disney plus
+tt3691740,The BFG,Movie,PG,2016,117,6.4,Adventure,Disney plus
+tt0024886,The Big Bad Wolf,Movie,N/A,1934,9,7.1,Animation,Disney plus
+tt0068276,The Biscuit Eater,Movie,G,1972,90,5.7,Drama,Disney plus
+tt0088814,The Black Cauldron,Movie,PG,1985,80,6.4,Animation,Disney plus
+tt0078869,The Black Hole,Movie,PG,1979,98,6,Action,Disney plus
+tt2616880,The Blue Umbrella,Movie,G,2013,7,7.6,Animation,Disney plus
+tt0274240,The Book of Pooh,TV Show,TV-Y,2001,30,6.3,Animation,Disney plus
+tt0147926,The Brave Little Toaster Goes to Mars,Movie,N/A,1998,73,5.7,Animation,Disney plus
+tt0071288,The Castaway Cowboy,Movie,G,1974,91,5.9,Comedy,Disney plus
+tt0077305,The Cat from Outer Space,Movie,G,1978,104,6.1,Comedy,Disney plus
+tt0338852,The Cheetah Girls,Movie,TV-G,2003,100,4.8,Comedy,Disney plus
+tt0800318,The Cheetah Girls 2,Movie,TV-G,2006,96,5,Comedy,Disney plus
+tt1013542,The Cheetah Girls: One World,Movie,TV-G,2008,90,4.7,Comedy,Disney plus
+tt0090840,The Christmas Star,Movie,TV-G,1986,94,6.5,Drama,Disney plus
+tt0499448,The Chronicles of Narnia: Prince Caspian,Movie,PG,2008,150,6.5,Action,Disney plus
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Movie,PG,2005,143,6.9,Adventure,Disney plus
+tt0213565,The Color of Friendship,Movie,TV-G,2000,87,7.4,Biography,Disney plus
+tt0065566,The Computer Wore Tennis Shoes,Movie,G,1969,91,6,Comedy,Disney plus
+tt0276033,The Country Bears,Movie,G,2002,88,4.1,Comedy,Disney plus
+tt0120917,The Emperor's New Groove,Movie,G,2000,78,7.3,Animation,Disney plus
+tt0327698,The Even Stevens Movie,Movie,TV-G,2003,93,6.2,Comedy,Disney plus
+tt2025690,The Finest Hours,Movie,PG-13,2016,117,6.8,Action,Disney plus
+tt0082406,The Fox and the Hound,Movie,G,1981,83,7.3,Animation,Disney plus
+tt0465997,The Fox and the Hound 2,Movie,G,2006,69,5.3,Animation,Disney plus
+tt0492956,The Game Plan,Movie,PG,2007,110,6.1,Comedy,Disney plus
+tt0080788,The Ghosts of Buxley Hall,Movie,N/A,1980,120,6.6,Comedy,Disney plus
+tt0025184,The Goddess of Spring,Movie,N/A,1934,10,6.9,Animation,Disney plus
+tt0026423,The Golden Touch,Movie,N/A,1935,10,6.9,Animation,Disney plus
+tt1979388,The Good Dinosaur,Movie,PG,2015,93,6.7,Animation,Disney plus
+tt0091149,The Great Mouse Detective,Movie,G,1986,74,7.2,Animation,Disney plus
+tt0082474,The Great Muppet Caper,Movie,G,1981,97,7.2,Adventure,Disney plus
+tt0388980,The Greatest Game Ever Played,Movie,PG,2005,120,7.4,Biography,Disney plus
+tt0338094,The Haunted Mansion,Movie,PG,2003,88,5,Comedy,Disney plus
+tt0031431,The Hockey Champ,Movie,N/A,1939,7,7.1,Animation,Disney plus
+tt0116583,The Hunchback of Notre Dame,Movie,G,1996,91,6.9,Animation,Disney plus
+tt0257778,The Hunchback of Notre Dame 2: The Secret of the Bell,Movie,G,2002,68,4.7,Animation,Disney plus
+tt9331982,The Imagineering Story,TV Show,N/A,2019,60,9.1,Documentary,Disney plus
+tt2136396,The Incredible Dr. Pol,TV Show,TV-PG,2011,44,8.6,Documentary,Disney plus
+tt6001956,Blue Ribbon Kids,TV Show,N/A,2016,44,9,Documentary,Disney plus
+tt0057180,The Incredible Journey,Movie,G,1963,80,7.1,Adventure,Disney plus
+tt0317705,The Incredibles,Movie,PG,2004,115,8,Animation,Disney plus
+tt0089385,The Journey of Natty Gann,Movie,PG,1985,101,7,Adventure,Disney plus
+tt0061852,The Jungle Book,Movie,G,1967,78,7.6,Animation,Disney plus
+tt0283426,The Jungle Book 2,Movie,G,2003,72,5.4,Animation,Disney plus
+tt0144262,The Jungle Book: Mowgli's Story,Movie,G,1998,77,4.2,Adventure,Disney plus
+tt1294226,The Last Song,Movie,PG,2010,107,6,Drama,Disney plus
+tt2565938,The Legend of Mor'du,Movie,N/A,2012,7,6.2,Animation,Disney plus
+tt6105098,The Lion King,Movie,PG,2019,118,6.9,Animation,Disney plus
+tt0318403,The Lion King 3: Hakuna Matata,Movie,G,2004,77,6.6,Animation,Disney plus
+tt0120131,The Lion King 2: Simba's Pride,Movie,G,1998,81,6.5,Animation,Disney plus
+tt0110357,The Lion King,Movie,G,1994,88,8.5,Animation,Disney plus
+tt0097757,The Little Mermaid,Movie,G,1989,83,7.6,Animation,Disney plus
+tt0240684,The Little Mermaid 2: Return to the Sea,Movie,G,2000,75,5.6,Animation,Disney plus
+tt0969647,The Little Mermaid: Ariel's Beginning,Movie,G,2008,77,6.3,Animation,Disney plus
+tt0046008,The Living Desert,Movie,N/A,1953,69,7.5,Family,Disney plus
+tt0306841,Lizzie McGuire,Movie,PG,2003,94,5.5,Adventure,Disney plus
+tt6176812,The Lodge,TV Show,N/A,2016,22,6.5,Family,Disney plus
+tt0064603,The Love Bug,Movie,G,1969,108,6.5,Comedy,Disney plus
+tt8111088,The Mandalorian,TV Show,TV-PG,2019,30,8.7,Action,Disney plus
+tt0076363,The Many Adventures of Winnie the Pooh,Movie,G,1977,74,7.6,Animation,Disney plus
+tt0066728,The Million Dollar Duck,Movie,G,1971,89,5.9,Comedy,Disney plus
+tt2490352,The Mistle-Tones,Movie,TV-PG,2012,90,6.7,Comedy,Disney plus
+tt0104940,The Muppet Christmas Carol,Movie,G,1992,85,7.7,Comedy,Disney plus
+tt0079588,The Muppet Movie,Movie,G,1979,95,7.6,Adventure,Disney plus
+tt1204342,The Muppets,Movie,PG,2011,103,7.1,Adventure,Disney plus
+tt4651824,The Muppets.,TV Show,TV-PG,2015,21,7.4,Comedy,Disney plus
+tt0165052,The New Adventures of Winnie the Pooh,TV Show,TV-Y,1988,30,7.6,Animation,Disney plus
+tt0046125,The New Neighbor,Movie,N/A,1953,7,7.5,Family,Disney plus
+tt1462769,The Odd Life of Timothy Green,Movie,PG,2012,105,6.6,Comedy,Disney plus
+tt0029339,The Old Mill,Movie,N/A,1937,9,7.9,Animation,Disney plus
+tt0035148,The Olympic Champ,Movie,N/A,1942,7,7.1,Animation,Disney plus
+tt0219222,The Olympic Elk,Movie,N/A,1952,27,7.2,Documentary,Disney plus
+tt0246834,The Other Me,Movie,TV-G,2000,90,6.1,Comedy,Disney plus
+tt0055277,The Parent Trap,Movie,N/A,1961,129,7.1,Comedy,Disney plus
+tt0120783,The Parent Trap,Movie,PG,1998,128,6.5,Adventure,Disney plus
+tt0024451,The Pied Piper,Movie,N/A,1933,8,6.7,Animation,Disney plus
+tt0561332,The Plausible Impossible,TV Show,N/A,1956,50,8.1,Adventure,Disney plus
+tt0274728,The Poof Point,Movie,TV-G,2001,90,4.7,Comedy,Disney plus
+tt1836776,The Prince and the Pauper,Movie,TV-PG,1981,93,6.2,Adventure,Disney plus
+tt0100409,The Prince and the Pauper,Movie,G,1990,25,7.1,Animation,Disney plus
+tt0780521,The Princess and the Frog,Movie,G,2009,97,7.1,Animation,Disney plus
+tt0093779,The Princess Bride,Movie,PG,1987,98,8.1,Adventure,Disney plus
+tt0247638,The Princess Diaries,Movie,G,2001,111,6.3,Comedy,Disney plus
+tt0368933,The Princess Diaries 2: Royal Engagement,Movie,G,2004,113,5.8,Comedy,Disney plus
+tt0293737,The Proud Family,TV Show,TV-Y,2001,30,6.4,Animation,Disney plus
+tt0448090,The Proud Family Movie,Movie,TV-G,2005,90,5.4,Animation,Disney plus
+tt0034091,The Reluctant Dragon,Movie,N/A,1941,74,6.9,Animation,Disney plus
+tt0816401,The Replacements,TV Show,TV-Y,2006,22,5.8,Animation,Disney plus
+tt0076618,The Rescuers,Movie,G,1977,78,6.9,Animation,Disney plus
+tt0100477,The Rescuers Down Under,Movie,G,1990,77,6.9,Animation,Disney plus
+tt0102803,The Rocketeer,Movie,PG,1991,108,6.5,Action,Disney plus
+tt0265662,The Rookie,Movie,G,2002,127,6.9,Drama,Disney plus
+tt0817307,The Sandlot: Heading Home,Movie,PG,2007,96,5,Family,Disney plus
+tt0111070,The Santa Clause,Movie,PG,1994,97,6.5,Comedy,Disney plus
+tt0304669,The Santa Clause 2,Movie,G,2002,104,5.6,Comedy,Disney plus
+tt0452681,The Santa Clause 3: The Escape Clause,Movie,G,2006,97,4.7,Adventure,Disney plus
+tt0313634,The Scream Team,Movie,TV-PG,2002,100,6.7,Comedy,Disney plus
+tt0496386,The Secret of the Magic Gourd,Movie,G,2007,84,5.3,Drama,Disney plus
+tt0075200,The Shaggy D.A.,Movie,G,1976,91,5.9,Comedy,Disney plus
+tt0053271,The Shaggy Dog,Movie,N/A,1959,104,6.5,Family,Disney plus
+tt0054307,The Sign of Zorro,Movie,N/A,1960,91,7.1,Adventure,Disney plus
+tt0096697,The Simpsons,TV Show,TV-PG,1989,22,8.7,Animation,Disney plus
+tt0078281,The Small One,Movie,G,1978,26,7.8,Animation,Disney plus
+tt0059742,The Sound of Music,Movie,G,1965,172,8,Biography,Disney plus
+tt0045197,The Story of Robin Hood and His Merrie Men,Movie,N/A,1952,84,6.7,Action,Disney plus
+tt0166896,The Straight Story,Movie,G,1999,112,8,Biography,Disney plus
+tt0073760,The Strongest Man in the World,Movie,G,1975,92,6.1,Comedy,Disney plus
+tt1754799,The Suite Life Movie,Movie,N/A,2011,79,5.3,Adventure,Disney plus
+tt0426371,The Suite Life of Zack & Cody,TV Show,TV-G,2005,30,6.5,Comedy,Disney plus
+tt1181917,The Suite Life on Deck,TV Show,TV-G,2008,30,6.3,Action,Disney plus
+tt5653444,The Swap,Movie,TV-G,2016,100,6.1,Comedy,Disney plus
+tt0057546,The Sword in the Stone,Movie,G,1964,79,7.2,Animation,Disney plus
+tt0200208,The Thirteenth Year,Movie,TV-G,1999,95,6,Comedy,Disney plus
+tt0038166,The Three Caballeros,Movie,N/A,1945,71,6.5,Animation,Disney plus
+tt0108333,The Three Musketeers,Movie,PG,1993,105,6.4,Action,Disney plus
+tt0220099,The Tigger Movie,Movie,G,2000,77,6.3,Animation,Disney plus
+tt0027126,The Tortoise and the Hare,Movie,N/A,1935,9,7.2,Animation,Disney plus
+tt0061135,The Ugly Dachshund,Movie,N/A,1966,93,6.7,Comedy,Disney plus
+tt0032071,Ugly Duckling,Movie,N/A,1939,9,7.6,Animation,Disney plus
+tt0256466,The Ultimate Christmas Present,Movie,TV-G,2000,85,5.9,Comedy,Disney plus
+tt0047642,The Vanishing Prairie,Movie,N/A,1955,71,7.7,Documentary,Disney plus
+tt0405469,The Wild,Movie,G,2006,82,5.3,Animation,Disney plus
+tt0025997,The Wise Little Hen,Movie,N/A,1934,8,7.1,Animation,Disney plus
+tt2448374,The Wizards Return: Alex vs. Alex,Movie,TV-G,2013,60,6.5,Adventure,Disney plus
+tt6897772,The Little Mermaid Live!,Movie,TV-PG,2019,83,5.5,Musical,Disney plus
+tt0318850,The Young Black Stallion,Movie,G,2003,50,5.6,Adventure,Disney plus
+tt0059796,Those Calloways,Movie,N/A,1965,131,6.8,Drama,Disney plus
+tt0301935,Three Days,Movie,TV-G,2001,100,7.2,Drama,Disney plus
+tt0024660,Three Little Pigs,Movie,N/A,1933,9,7.5,Animation,Disney plus
+tt0094137,Three Men and a Baby,Movie,PG,1987,102,6,Comedy,Disney plus
+tt0098966,Three Men and a Little Lady,Movie,PG,1990,104,5.4,Comedy,Disney plus
+tt0111419,Thumbelina,Movie,G,1994,86,6.3,Animation,Disney plus
+tt0397113,Tiger Cruise,Movie,TV-PG,2004,88,6.2,Drama,Disney plus
+tt0107688,The Nightmare Before Christmas,Movie,PG,1993,76,8,Animation,Disney plus
+tt6820324,Timmy Failure: Mistakes Were Made,Movie,PG,2020,99,6.1,Adventure,Disney plus
+tt0112197,Timon & Pumbaa,TV Show,TV-Y,1995,22,7.1,Animation,Disney plus
+tt0096273,Tin Toy,Movie,G,1988,5,6.5,Animation,Disney plus
+tt0823671,Tinker Bell,Movie,G,2008,78,6.8,Animation,Disney plus
+tt1216515,Tinker Bell and the Great Fairy Rescue,Movie,G,2010,76,6.9,Animation,Disney plus
+tt1216516,Tinker Bell and the Lost Treasure,Movie,G,2009,81,6.7,Animation,Disney plus
+tt7620568,Titanic: 20 Years Later with James Cameron,Movie,N/A,2017,46,7.2,Documentary,Disney plus
+tt0028390,Toby Tortoise Returns,Movie,N/A,1936,7,7,Animation,Disney plus
+tt5116302,Togo,Movie,PG,2019,113,8.1,Adventure,Disney plus
+tt0112302,Tom and Huck,Movie,PG,1995,97,5.5,Adventure,Disney plus
+tt0114709,Toy Story,Movie,G,1995,81,8.3,Animation,Disney plus
+tt0120363,Toy Story 2,Movie,G,1999,92,7.9,Animation,Disney plus
+tt0435761,Toy Story 3,Movie,G,2010,103,8.3,Animation,Disney plus
+tt1979376,Toy Story 4,Movie,G,2019,100,7.8,Animation,Disney plus
+tt1850374,Toy Story Toons: Hawaiian Vacation,Movie,G,2011,6,7.3,Animation,Disney plus
+tt2033372,Toy Story Toons: Small Fry,Movie,G,2011,7,7.1,Animation,Disney plus
+tt1247700,Trail of the Panda,Movie,G,2009,87,6.4,Adventure,Disney plus
+tt0043063,Trailer Horn,Movie,N/A,1950,6,7.1,Animation,Disney plus
+tt0043067,Treasure Island,Movie,PG,1950,96,6.9,Adventure,Disney plus
+tt0075347,Treasure of Matecumbe,Movie,G,1976,117,6.3,Adventure,Disney plus
+tt0133240,Treasure Planet,Movie,PG,2002,95,7.2,Animation,Disney plus
+tt0084827,TRON,Movie,PG,1982,96,6.8,Action,Disney plus
+tt1812523,TRON: Uprising,TV Show,TV-Y7,2012,30,8.2,Animation,Disney plus
+tt1104001,TRON: Legacy,Movie,PG,2010,125,6.8,Action,Disney plus
+tt0296251,Tru Confessions,Movie,TV-G,2002,112,7.5,Drama,Disney plus
+tt0283084,Tuck Everlasting,Movie,PG,2002,90,6.6,Drama,Disney plus
+tt0033188,Tugboat Mickey,Movie,N/A,1940,7,7.1,Animation,Disney plus
+tt0098536,Turner & Hooch,Movie,PG,1989,97,6.2,Comedy,Disney plus
+tt0282223,Twas the Night,Movie,TV-G,2001,84,5.5,Comedy,Disney plus
+tt0467421,Twitches,Movie,TV-PG,2005,86,5.7,Comedy,Disney plus
+tt1017465,Twitches Too,Movie,TV-PG,2007,83,5.8,Drama,Disney plus
+tt0080062,Unidentified Flying Oddball,Movie,G,1979,93,5.3,Comedy,Disney plus
+tt1049413,Up,Movie,PG,2009,96,8.2,Animation,Disney plus
+tt0211174,"Up, Up, and Away!",Movie,TV-G,2000,90,5.6,Comedy,Disney plus
+tt0361089,Valiant,Movie,G,2005,76,5.5,Animation,Disney plus
+tt10538348,Viking Warrior Women,Movie,N/A,2019,51,7.1,Documentary,Disney plus
+tt2171665,Violetta,TV Show,TV-G,2012,45,5.2,Drama,Disney plus
+tt1159961,Waking Sleeping Beauty,Movie,PG,2010,86,7.6,Documentary,Disney plus
+tt0910970,WALL·E,Movie,G,2008,98,8.4,Animation,Disney plus
+tt0045314,Water Birds,Movie,N/A,1952,30,6.9,Documentary,Disney plus
+tt0790781,Wendy Wu: Homecoming Warrior,Movie,TV-PG,2006,91,5.4,Action,Disney plus
+tt0185007,Whispers: An Elephant's Tale,Movie,G,2000,72,5,Family,Disney plus
+tt0103247,White Fang,Movie,PG,1991,107,6.7,Adventure,Disney plus
+tt0096438,Who Framed Roger Rabbit,Movie,PG,1988,104,7.7,Animation,Disney plus
+tt2191567,Wicked Tuna,TV Show,TV-14,2012,60,6.6,Reality-TV,Disney plus
+tt0096446,Willow,Movie,PG,1988,126,7.3,Action,Disney plus
+tt1449283,Winnie the Pooh,Movie,G,2011,63,7.2,Animation,Disney plus
+tt0324572,Winnie the Pooh: A Very Merry Pooh Year,Movie,G,2002,65,6.8,Animation,Disney plus
+tt0384696,Winnie the Pooh: Springtime with Roo,Movie,G,2004,65,6.5,Animation,Disney plus
+tt0042047,Winter Storage,Movie,N/A,1949,7,7.4,Animation,Disney plus
+tt0799922,Wizards of Waverly Place,TV Show,TV-G,2007,22,6.8,Adventure,Disney plus
+tt1369845,Wizards of Waverly Place: The Movie,Movie,TV-G,2009,94,6.2,Adventure,Disney plus
+tt0772145,Wolverine and the X-Men,TV Show,TV-Y7,2009,23,8,Animation,Disney plus
+tt6959706,BarkFest,TV Show,N/A,2017,35,N/A,N/A,Disney plus
+tt1772341,Wreck-It Ralph,Movie,PG,2012,101,7.7,Animation,Disney plus
+tt0247827,X-Men: Evolution,TV Show,TV-Y7,2000,23,7.9,Animation,Disney plus
+tt0206446,Yellowstone Cubs,Movie,N/A,1963,48,6.9,Family,Disney plus
+tt0153992,You Lucky Dog,Movie,TV-G,1998,89,4.7,Comedy,Disney plus
+tt0329783,You Wish!,Movie,TV-G,2003,84,6.1,Comedy,Disney plus
+tt1134859,Your Friend the Rat,Movie,G,2007,11,7.1,Animation,Disney plus
+tt6878820,Z-O-M-B-I-E-S,Movie,TV-G,2018,94,6.3,Family,Disney plus
+tt3544734,Zapped,Movie,TV-G,2014,102,5.1,Comedy,Disney plus
+tt0186726,Zenon: Girl of the 21st Century,Movie,TV-G,1999,97,6.4,Adventure,Disney plus
+tt0271271,Zenon: The Zequel,Movie,TV-G,2001,100,5.9,Comedy,Disney plus
+tt0379060,Zenon: Z3,Movie,TV-G,2004,81,5.5,Adventure,Disney plus
+tt2948356,Zootopia,Movie,PG,2016,108,8,Animation,Disney plus
